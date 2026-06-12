@@ -37,7 +37,7 @@ npm install
 
 3. Configure o arquivo `.env` com a URL da sua API:
 ```env
-VITE_API_URL=https://sua-api.com
+VITE_API_URL=https://backend-be-the-hero.vercel.app
 ```
 
 4. Inicie o servidor de desenvolvimento:
